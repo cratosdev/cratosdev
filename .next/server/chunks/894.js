@@ -209,14 +209,14 @@ const Header = ()=>{
                                     /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
                                         src: "/images/logo/logo3.png",
                                         alt: "logo",
-                                        width: 34,
+                                        width: 70,
                                         height: 30,
                                         className: "w-full dark:hidden"
                                     }),
                                     /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
                                         src: "/images/logo/logo3.png",
                                         alt: "logo",
-                                        width: 34,
+                                        width: 70,
                                         height: 30,
                                         className: "hidden w-full dark:block"
                                     }),
