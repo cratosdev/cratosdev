@@ -2,7 +2,7 @@
 const nextConfig = {
   experimental: {
     appDir: true,
-    images: true,
+    images: false,
   },
   output: 'export',
 };
