@@ -61,7 +61,7 @@ const featuresData: Feature[] = [
     ),
     title: "Efficiently organize using Trello.",
     paragraph:
-      "Effortlessly handle your design board through Trello. Seamlessly monitor active, queued, and completed tasks for a smooth workflow.",
+      "Effortlessly handle your Web Project board through Trello. Seamlessly monitor active, queued, and completed tasks for a smooth workflow.",
   },
   {
     id: 1,
